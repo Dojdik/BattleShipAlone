@@ -1,0 +1,5 @@
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\bin\Debug\BattleShipAlone.exe.config
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\bin\Debug\BattleShipAlone.exe
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\bin\Debug\BattleShipAlone.pdb
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\obj\Debug\BattleShipAlone.exe
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\obj\Debug\BattleShipAlone.pdb

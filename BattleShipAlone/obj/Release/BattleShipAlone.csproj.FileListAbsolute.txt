@@ -1,0 +1,6 @@
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\bin\Release\BattleShipAlone.exe.config
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\bin\Release\BattleShipAlone.exe
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\bin\Release\BattleShipAlone.pdb
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\obj\Release\BattleShipAlone.exe
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\obj\Release\BattleShipAlone.pdb
+e:\users\minecraft\documents\visual studio 2017\Projects\BattleShipAlone\BattleShipAlone\obj\Release\BattleShipAlone.csprojResolveAssemblyReference.cache
